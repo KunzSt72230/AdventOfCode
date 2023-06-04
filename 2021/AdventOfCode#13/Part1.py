@@ -90,4 +90,4 @@ for instruction in instructions: #First empty instruction, then real instruction
     # if foldCounter == 2:
     #     break
 
-
+help = 0
