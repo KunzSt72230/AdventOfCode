@@ -1,5 +1,5 @@
 lines = []
-with open('AdventOfCode#13\Input.txt') as f:
+with open('2021\AdventOfCode#13\Input.txt') as f:
     lines = f.readlines()
 
 coords =[]
@@ -89,5 +89,3 @@ for instruction in instructions: #First empty instruction, then real instruction
 
     # if foldCounter == 2:
     #     break
-
-help = 0

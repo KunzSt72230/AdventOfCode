@@ -1,5 +1,5 @@
 lines = []
-with open('AdventOfCode#6\InputTest.txt') as f:
+with open('2021\AdventOfCode#6\InputTest.txt') as f:
     lines = f.read()
 
 day = 1

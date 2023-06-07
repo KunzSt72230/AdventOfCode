@@ -1,5 +1,5 @@
 lines = []
-with open('AdventOfCode#10\Input.txt') as f:
+with open('2021\AdventOfCode#10\Input.txt') as f:
     lines = f.readlines()
 
 RKlammer = 0

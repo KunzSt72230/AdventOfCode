@@ -1,7 +1,7 @@
 input = []
 test = []
 boards = []
-with open('AdventOfCode#4\InputTest.txt') as f:
+with open('2021\AdventOfCode#4\InputTest.txt') as f:
     input = f.readline().strip()
     boards = f.read()[0:].split()
 

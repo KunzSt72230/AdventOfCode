@@ -1,7 +1,7 @@
 import math
 
 lines = []
-with open('AdventOfCode#7\Input.txt') as f:
+with open('2021\AdventOfCode#7\Input.txt') as f:
     lines = f.read().split(',')
 
 median = 0

@@ -1,5 +1,5 @@
 lines = []
-with open('AdventOfCode#2\Input.txt') as f:
+with open('2021\AdventOfCode#2\Input.txt') as f:
     lines = f.readlines()
 
 PosHorizontal = 0

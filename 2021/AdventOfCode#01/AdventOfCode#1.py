@@ -1,5 +1,5 @@
 lines = []
-with open('AdventOfCode#1\Input.txt') as f:
+with open('2021\AdventOfCode#1\Input.txt') as f:
     lines = f.readlines()
 #Aufgabe 1.1
 

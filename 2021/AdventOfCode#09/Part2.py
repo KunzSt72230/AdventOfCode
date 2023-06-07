@@ -1,5 +1,5 @@
 lines = []
-with open('AdventOfCode#9\InputTest.txt') as f:
+with open('2021\AdventOfCode#9\InputTest.txt') as f:
     lines = f.readlines()
 
 board = [ [0]*(len(lines[0])-1) for i in range(0, len(lines))]
